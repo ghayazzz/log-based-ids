@@ -107,6 +107,21 @@ python app.py
 | API Response | JSON data returned correctly |
 | Frontend Updates | Dashboard updates with new logs |
 
+## Log Ingestion
+![image](https://github.com/user-attachments/assets/344e0c48-00c7-4793-9b39-982ab2d57666)
+## Lambda Processing
+![image](https://github.com/user-attachments/assets/e93e066d-4405-4ad4-8b92-cc91862c4fe7)
+## SageMaker Classification (DynamoDB Result)
+![image](https://github.com/user-attachments/assets/4b8b6a02-8655-4cb0-b544-9b0fa3d860fb)
+## API Response
+![image](https://github.com/user-attachments/assets/997471c5-10ce-4804-a9d5-0deef7a61796)
+## Frontend Updates
+![image](https://github.com/user-attachments/assets/a1a5cb02-102e-4669-97a1-0b0505fdb2c8)
+![image](https://github.com/user-attachments/assets/d0187973-f617-48b0-92cc-3073df2a0cfc)
+
+
+
+
 ### Security Testing
 - Unauthorized API requests should return **401 Unauthorized**.
 - Logs should not be accessible outside of AWS services.
