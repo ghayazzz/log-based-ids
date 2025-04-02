@@ -4,7 +4,7 @@
 The **Log-based Intrusion Detection System (IDS)** is a cloud-based security solution that detects potential cyber threats using machine learning. It analyzes **network traffic logs** stored in AWS, processes them using **AWS Lambda**, classifies them with an ML model hosted on **AWS SageMaker**, and visualizes the results through a **web dashboard**.
 
 ## Architecture
-![Architecture Diagram](https://github.com/user-attachments/assets/1d01b27f-aaae-44f5-8a22-2be82c8afce1)
+![Architecture Diagram](https://github.com/user-attachments/assets/2f8ccb7d-1511-4a93-90fc-fb8d410bfc86)
 
 ## Features
 - **Automated Log Processing**: Uses AWS Lambda to extract and parse network logs.
@@ -116,8 +116,9 @@ python app.py
 ## API Response
 ![image](https://github.com/user-attachments/assets/997471c5-10ce-4804-a9d5-0deef7a61796)
 ## Frontend Updates
-![image](https://github.com/user-attachments/assets/a1a5cb02-102e-4669-97a1-0b0505fdb2c8)
-![image](https://github.com/user-attachments/assets/d0187973-f617-48b0-92cc-3073df2a0cfc)
+![image](https://github.com/user-attachments/assets/ce260145-c0c1-417a-a361-aefae4873213)
+![image](https://github.com/user-attachments/assets/a57fcb48-535e-4c93-8a83-a9278ab1c1c2)
+
 
 
 
