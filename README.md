@@ -116,11 +116,11 @@ python app.py
 ## API Response
 ![image](https://github.com/user-attachments/assets/997471c5-10ce-4804-a9d5-0deef7a61796)
 ## Frontend Updates
-![image](https://github.com/user-attachments/assets/ce260145-c0c1-417a-a361-aefae4873213)
+![image](https://github.com/user-attachments/assets/93295b0d-b071-4f69-b9e8-0d9b9fbfff63)
+![image](https://github.com/user-attachments/assets/9b66f37b-ccbc-4161-b0e9-e833142fa2e2)
+![image](https://github.com/user-attachments/assets/466bfee7-6c53-4649-88b8-2bda88e4aa7b)
 ![image](https://github.com/user-attachments/assets/9c964d57-4418-4fde-9324-26832264ecce)
-![image](https://github.com/user-attachments/assets/a57fcb48-535e-4c93-8a83-a9278ab1c1c2)
-
-
+![image](https://github.com/user-attachments/assets/235e914a-9a75-400b-a307-22244701be57)
 
 
 
