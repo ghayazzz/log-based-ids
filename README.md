@@ -117,6 +117,7 @@ python app.py
 ![image](https://github.com/user-attachments/assets/997471c5-10ce-4804-a9d5-0deef7a61796)
 ## Frontend Updates
 ![image](https://github.com/user-attachments/assets/ce260145-c0c1-417a-a361-aefae4873213)
+![image](https://github.com/user-attachments/assets/9c964d57-4418-4fde-9324-26832264ecce)
 ![image](https://github.com/user-attachments/assets/a57fcb48-535e-4c93-8a83-a9278ab1c1c2)
 
 
