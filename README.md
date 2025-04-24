@@ -140,10 +140,8 @@ python app.py
 - **Automated Model Retraining** when new logs are ingested.
 - **Anomaly Scoring** for better threat classification.
 
-## Contributors
-- **Kishore Sreedharan**
-- **Mohammed Ghayasuddin**
-- **Naresh Babu Nangineedi**
+## Contributor
+**Mohammed Ghayasuddin**
 
 
 
